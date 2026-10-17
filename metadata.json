@@ -1,0 +1,8 @@
+{
+  "name": "Remix UPM Safety Knowledge Hub",
+  "description": "Global corporate continuous improvement \u0026 validated safety best practices platform with AI-assisted discovery, multi-stage unanimous approval workflows, and cross-site knowledge sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
